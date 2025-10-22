@@ -90,9 +90,8 @@ MIT License - Feel free to use for personal or commercial projects
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## 👨‍💻 Author
 
-Your Name - [Your GitHub Profile]
+-SONU
 
 ---
 
