@@ -16,7 +16,7 @@ A full-featured todo application built with React, featuring pre-loaded fitness 
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/todoist-clone.git
+git clone https://github.com/z-onu/todoist-clone.git
 cd todoist-clone
 
 # Install dependencies
